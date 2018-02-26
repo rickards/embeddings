@@ -1,7 +1,7 @@
 library(wordVectors)
 library(tsne)
 
-setwd("/home/rique/Área de Trabalho/embeddings")
+setwd("/home/rique/git/embeddings")
 
 corpus <- "corpus/pt_processed.txt"
 path_model <- "models/embeddings_wordVectors_r.bin"
